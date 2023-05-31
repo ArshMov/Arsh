@@ -1,7 +1,7 @@
 # Arsh
 
 # 💫 About Me:
-Programmer in Python, Html, Css and JavaScript languages
+Programmer in Python, Html and Css languages
 
 
 ## 🌐 Socials:
